@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @nikhilmaharana
-- 👀 I’m interested in AI ML Development & FullStack Development(Currently Studying)
-- 🌱 I have Comnpleted C, HTML, Python, SQL, Data Structure.
-- 💞️ I’m looking to collaborate on GitHub and meet new people to enhance and develop my coding skills.
-- 📫 You can reach me through GitHub and Also in LinkedIn. (Instagram and Whatsapp Also)
-- 😄 Pronouns: He
-- ⚡ I am Gaining knowledge from youtube, and currently pursuing my MCA.
+Hi! I’m Nikhil — an MCA student, Full-Stack Developer, and an explorer of AI/ML and digital creativity.
 
-<!---
-nikhilmaharana/nikhilmaharana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 On the tech side:
+I build intuitive web apps using Django and Python, and enjoy experimenting with AI's and data-driven projects. I love turning real-world ideas into fully functional platforms.
+
+🎧 On the creative side:
+I’m a singer and guitar cover artist with an engaged music audience on Instagram (@nikhil.maharana.music). Music keeps me expressive, creative, and balanced — even in tech chaos.
+
+🚀 Currently:
+• Interned at Web Bocket (Full Stack + Data Science role) 
+• Expanding my skills in Data Analytics and ML 
+
+📬 Looking to connect with forward-thinkers in tech or music. Let’s collaborate, build, or jam — digitally or creatively!
