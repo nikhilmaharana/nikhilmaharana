@@ -35,17 +35,17 @@ I enjoy turning ideas into **fully functional platforms**, whether it’s a web 
 
 ## Creative Side
 
-🎵 **Singer & Guitar Cover Artist**  
+**Singer & Guitar Cover Artist**  
 Music keeps me expressive, balanced, and creatively charged — even in tech chaos.
 
-📸 Instagram Music Page:  
-👉 **[@nikhil.maharana.music](https://www.instagram.com/nikhil.maharana.music/)**
+Instagram Music Page:  
+**[@nikhil.maharana.music](https://www.instagram.com/nikhil.maharana.music/)**
 
 ---
 
 ## Experience & Current Focus
 
--> **• 🏢 Interned at Web Bocket — Full-Stack Development & Data Science**  
+-> **Interned at Web Bocket — Full-Stack Development & Data Science**  
   -> Currently expanding skills in:
   - Data Analytics  
   - Machine Learning  
