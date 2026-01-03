@@ -45,8 +45,7 @@ Music keeps me expressive, balanced, and creatively charged — even in tech cha
 
 ## Experience & Current Focus
 
--> **Interned at :contentReference[oaicite:0]{index=0}**  
-  *Role:* Full-Stack Development + Data Science  
+-> **• 🏢 Interned at Web Bocket — Full-Stack Development & Data Science**  
   -> Currently expanding skills in:
   - Data Analytics  
   - Machine Learning  
