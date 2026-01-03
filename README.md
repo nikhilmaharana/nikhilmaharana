@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikhil Maharana</h1>
+<h1 align="center">Hi, I'm Nikhil Maharana</h1>
 <h3 align="center">MCA Student | Full-Stack Developer | AI/ML Explorer | Creative Technologist</h3>
 
 <p align="center">
