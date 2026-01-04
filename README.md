@@ -91,12 +91,16 @@ An intelligent system designed to guide users based on skills and interests.
 ## GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilmaharana" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilmaharana&theme=default" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilmaharana&theme=default" 
+    width="48%" 
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilmaharana" />
-</p>
 
 ---
 
