@@ -86,9 +86,16 @@ I enjoy designing clean backend architectures, developing efficient APIs, and cr
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilmaharana&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmaharana&layout=compact&hide_border=true" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nikhilmaharana&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmaharana&layout=compact&hide_border=true&theme=default" 
+    height="165"
+  />
 </p>
+
 
 ---
 
