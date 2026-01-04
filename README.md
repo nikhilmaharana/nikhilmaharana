@@ -95,6 +95,13 @@ I enjoy designing clean backend architectures, developing efficient APIs, and cr
     height="165"
   />
 </p>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=nikhilmaharana&hide_border=true" 
+    height="165"
+  />
+</p>
+
 
 
 ---
