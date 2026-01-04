@@ -1,83 +1,129 @@
-<h1 align="center">Hi, I'm Nikhil Maharana</h1>
-<h3 align="center">MCA Student | Full-Stack Developer | AI/ML Explorer | Creative Technologist</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=500&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nikhil+Maharana;MCA+Student+%7C+Full-Stack+Developer;Python+%26+Django+Engineer;Exploring+AI+%26+Data+Driven+Systems" alt="Typing Animation" />
+</h1>
+
+<h3 align="center">
+  Full-Stack Developer • Python & Django • AI/ML Explorer
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikhilmaharana&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+<hr/>
 
 ## About Me
 
-I’m **Nikhil**, an **MCA student** passionate about building **real-world web applications**, exploring **AI/ML**, and blending **technology with creativity**.
-
-I enjoy turning ideas into **fully functional platforms**, whether it’s a web app, data-driven system, or an intelligent assistant.
+I am **Nikhil Maharana**, an **MCA student** with a background in **Physics**, focused on building **scalable, real-world web applications** and exploring **AI-driven systems**.  
+I enjoy designing clean backend architectures, developing efficient APIs, and creating intuitive user interfaces while continuously expanding my skills in **data analytics and machine learning**.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 ### Programming & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- Python  
+- Django  
+- REST APIs  
+- Java (Core)
 
 ### Frontend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- HTML5  
+- CSS3  
+- JavaScript  
 
-### Data & AI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white)
-
----
-
-## Creative Side
-
-**Singer & Guitar Cover Artist**  
-Music keeps me expressive, balanced, and creatively charged — even in tech chaos.
-
-Instagram Music Page:  
-**[@nikhil.maharana.music](https://www.instagram.com/nikhil.maharana.music/)**
+### Databases & Data
+- MySQL / PostgreSQL  
+- Data Analysis & Visualization  
+- Machine Learning Fundamentals  
 
 ---
 
-## Experience & Current Focus
+## Professional Experience
 
--> **Interned at Web Bocket — Full-Stack Development & Data Science**  
-  -> Currently expanding skills in:
-  - Data Analytics  
-  - Machine Learning  
-  - Scalable backend systems  
+### Python Full-Stack Developer — Web Bocket  
+**May 2025 – July 2025**
 
----
-
-## Interests & Goals
-
-- Building intelligent platforms (AI-powered systems)
-- Deep backend engineering with Python & Django
-- Creating my own **AI assistant (JARVIS-inspired)** from scratch
-- Competing in hackathons & tech challenges
-- Merging tech + creativity
+- Developed **Gossify**, a social interaction platform.
+- Built backend services using **Python and Django**.
+- Implemented secure **authentication and authorization**.
+- Designed and managed relational databases.
+- Created **RESTful APIs** for frontend integration.
+- Contributed to frontend development using HTML, CSS, and JavaScript.
+- Fixed bugs, optimized performance, and maintained clean code.
 
 ---
 
-## 🤝 Let’s Connect
+## Projects
+
+### Gossify — Social Interaction Platform
+- Full-stack platform enabling secure user interaction and content sharing.
+- Authentication, database-driven architecture, and REST APIs.
+- Responsive and user-friendly interface.
+
+**Tech Stack:** Python, Django, HTML, CSS, JavaScript, SQL
+
+---
+
+### FinXpert — AI-Powered Financial Insights Platform
+- Analyzed financial data to generate insights and visual reports.
+- Designed dashboards for clear interpretation of complex datasets.
+- Focused on scalable backend logic and AI-assisted analysis.
+
+**Tech Stack:** Python, Django, Data Analytics, Visualization Tools
+
+---
+
+### AI-Powered Career Guidance Chatbot
+- Intelligent chatbot for career recommendations based on user input.
+- Integrated frontend with backend logic and AI services.
+- Deployed as a full-stack application.
+
+**Tech Stack:** Python, Django, JavaScript, AI Services
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilmaharana&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilmaharana&layout=compact&hide_border=true" height="160"/>
+</p>
+
+---
+
+## Achievements & Focus
+
+- Built multiple **real-world full-stack projects**
+- Strong foundation in **backend engineering**
+- Actively preparing for **product-based company roles**
+- Exploring **AI, ML, and data-driven systems**
+- Participant in **hackathons and technical challenges**
+
+---
+
+## Creative Interests
+
+I am also a **Singer & Guitar Cover Artist**.  
+Music helps maintain creativity, balance, and focus.
+
+**Instagram:**  
+https://www.instagram.com/nikhil.maharana.music/
+
+---
+
+## Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/nikhil-maharana-089b73337" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/nikhil.maharana.music/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:nikhilmaharana10@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-⭐ *Looking to collaborate with forward-thinkers in tech or music.*  
-Let’s **build**, **innovate**, or **jam** — digitally or creatively.
+**Open to full-time roles, internships, and impactful collaborations.**  
+Focused on building **reliable, production-grade software systems**.
