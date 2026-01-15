@@ -101,6 +101,14 @@ An intelligent system designed to guide users based on skills and interests.
   />
 </p>
 
+## GitHub Contributions
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilmaharana&theme=github-compact&hide_border=true"
+    width="95%"
+  />
+</p>
 
 ---
 
