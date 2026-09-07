@@ -7,6 +7,16 @@
 </p>
 
 <p align="center">
+  <a href="https://nikhil-portfolio-one-sooty.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-Visit%20Website-111111?style=for-the-badge&labelColor=0e75b6" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Interactive portfolio showcasing my projects, engineering journey, AI work, and music.</i>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikhilmaharana&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
@@ -18,71 +28,88 @@ I am **Nikhil Maharana**, an **MCA student** with a background in **Physics**, f
 
 My interests lie in **backend engineering**, **clean API design**, and **data-informed applications**. I enjoy working on problems that require structured thinking, performance awareness, and long-term maintainability.
 
+### 🌐 Explore My Portfolio
+
+<p align="center">
+  <a href="https://nikhil-portfolio-one-sooty.vercel.app/">
+    <img src="https://img.shields.io/badge/VISIT%20PORTFOLIO-→-0e75b6?style=for-the-badge" />
+  </a>
+</p>
+
+My portfolio brings together my **development work, AI/LLM projects, technical journey, experiments, and music** in an interactive experience.
+
 ---
 
 ## Technical Expertise
 
 **Backend & Programming**
-- Python, Django  
-- RESTful API Development  
-- Java (Core Concepts)
+
+* Python, Django
+* RESTful API Development
+* Java (Core Concepts)
 
 **Frontend**
-- HTML5, CSS3  
-- JavaScript (ES6+)
+
+* HTML5, CSS3
+* JavaScript (ES6+)
 
 **Data & AI**
-- Relational Databases (MySQL / PostgreSQL)  
-- Data Analysis & Visualization  
-- Machine Learning Fundamentals
+
+* Relational Databases (MySQL / PostgreSQL)
+* Data Analysis & Visualization
+* Machine Learning Fundamentals
 
 ---
 
 ## Professional Experience
 
-### Python Full-Stack Developer — Web Bocket  
+### Python Full-Stack Developer — Web Bocket
+
 **May 2025 – July 2025**
 
-- Contributed to the development of **Gossify**, a social interaction platform.
-- Implemented backend services using **Python and Django**.
-- Designed secure **authentication and authorization workflows**.
-- Created and maintained **REST APIs** for frontend consumption.
-- Worked with relational databases for structured data management.
-- Collaborated on frontend integration and UI improvements.
-- Improved application stability through debugging and optimization.
+* Contributed to the development of **Gossify**, a social interaction platform.
+* Implemented backend services using **Python and Django**.
+* Designed secure **authentication and authorization workflows**.
+* Created and maintained **REST APIs** for frontend consumption.
+* Worked with relational databases for structured data management.
+* Collaborated on frontend integration and UI improvements.
+* Improved application stability through debugging and optimization.
 
 ---
 
 ## Selected Projects
 
 ### Gossify — Social Interaction Platform
+
 A full-stack web application enabling secure user interaction and content sharing.
 
-- User authentication and profile management  
-- REST API–driven architecture  
-- Responsive and accessible UI  
+* User authentication and profile management
+* REST API–driven architecture
+* Responsive and accessible UI
 
 **Tech Stack:** Python, Django, HTML, CSS, JavaScript, SQL
 
 ---
 
 ### FinXpert — AI-Powered Financial Insights Platform
+
 A data-focused platform for analyzing financial information and presenting insights.
 
-- Financial data analysis and visualization  
-- Insight-driven dashboards  
-- Scalable backend architecture  
+* Financial data analysis and visualization
+* Insight-driven dashboards
+* Scalable backend architecture
 
 **Tech Stack:** Python, Django, Data Analytics, Visualization Tools
 
 ---
 
 ### AI-Powered Career Guidance Chatbot
+
 An intelligent system designed to guide users based on skills and interests.
 
-- Conversational guidance logic  
-- Backend–frontend integration  
-- Deployed as a full-stack application  
+* Conversational guidance logic
+* Backend–frontend integration
+* Deployed as a full-stack application
 
 **Tech Stack:** Python, Django, JavaScript, AI Services
 
@@ -91,20 +118,20 @@ An intelligent system designed to guide users based on skills and interests.
 ## GitHub Activity & Stats
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilmaharana&theme=default" 
-    width="48%" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhilmaharana&theme=default"
+    width="48%"
   />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilmaharana&theme=default" 
-    width="48%" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilmaharana&theme=default"
+    width="48%"
   />
 </p>
 
 ## GitHub Contributions
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilmaharana&theme=github-compact&hide_border=true"
     width="95%"
   />
@@ -114,26 +141,33 @@ An intelligent system designed to guide users based on skills and interests.
 
 ## Focus Areas
 
-- Backend engineering with Python & Django  
-- Building maintainable full-stack applications  
-- Data-driven and AI-assisted systems  
-- Preparation for product-based software roles  
+* Backend engineering with Python & Django
+* Building maintainable full-stack applications
+* Data-driven and AI-assisted systems
+* Preparation for product-based software roles
 
 ---
 
 ## Beyond Technology
 
-I am also a **Singer & Guitar Cover Artist**.  
+I am also a **Singer & Guitar Cover Artist**.
+
 Music helps me stay creative, disciplined, and balanced alongside technical work.
 
-**Instagram:**  
+**Instagram:**
 https://www.instagram.com/nikhil.maharana.music/
+
+**YouTube:**
+https://www.youtube.com/@nikhilmaharanamusic
 
 ---
 
 ## Connect
 
 <p align="left">
+<a href="https://nikhil-portfolio-one-sooty.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/nikhil-maharana-089b73337" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -144,5 +178,12 @@ https://www.instagram.com/nikhil.maharana.music/
 
 ---
 
-**Open to full-time roles, internships, and challenging engineering opportunities.**  
+**Open to full-time roles, internships, and challenging engineering opportunities.**
 Focused on building **reliable, production-grade software systems**.
+
+<p align="center">
+  <b>🌐 Portfolio:</b>
+  <a href="https://nikhil-portfolio-one-sooty.vercel.app/">
+    nikhil-portfolio-one-sooty.vercel.app
+  </a>
+</p>
